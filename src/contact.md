@@ -47,7 +47,7 @@ If you want to replace your net address from yourchurchnamenp.netlify.app to you
 
 In our case, to replace yourchurchnamenp.netlify.com to yourchurchnamenp.org cost about 10 USD per year. There are many companies doing this business, you can search internet to find one. 
 
-![jekyll](/tutorial/img/homepage.png)
+![jekyll](/src/images/homepage.png)
 
 ### To build the site with Jekyll Statuc Site Generator
 
